@@ -1,4 +1,4 @@
-<!-- banner: ![JungYoung (Patrick) Jun - Data Scientist, Product & Business Analytics](https://raw.githubusercontent.com/patjun740-1/patjun740-1/main/banner.png) -->
+![JungYoung (Patrick) Jun - Data Scientist, Product & Business Analytics](https://raw.githubusercontent.com/patjun740-1/patjun740-1/main/banner.png)
 
 ### Data Scientist — Product & Business Analytics | M.S. Applied Data Science, University of Chicago
 
